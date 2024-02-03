@@ -1,7 +1,7 @@
 import './App.css';
 import {useEffect, useState} from "react";
 import {weavyConfig} from "./weavy-config";
-import TaskListComponent from "./component/Task";
+import TaskListComponent from "./component/create.txs";
 
 function App() {
 
