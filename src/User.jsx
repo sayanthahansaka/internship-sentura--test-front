@@ -1,17 +1,19 @@
 let user = {
-    user-id: "",
-    user-email: "",
-    user-given_name: "",
-    user-middle_name: "",
+    userId: "",
+    userEmail: "",
+    userGivenName: "",
+    userMiddleName: "",
     name: "",
-    family_name: "",
+    familyName: "",
     nickname: "",
-    phone_number: "",
+    phoneNumber: "",
     comment: "",
     picture: "",
     directory: "",
-    meta_data: "",
+    metaData: "",
     tags: [],
-    is_suspended: "",
+    isSuspended: "",
   };
+  
   export default user;
+  
